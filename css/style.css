@@ -462,8 +462,8 @@ header {
 
 .question--q5,
 .questionSuccess--q5 {
-    width: 385px;
-    height: 556px;
+    width: 501px;
+    height: 723px;
 }
 
 .question--q5 {
@@ -476,8 +476,8 @@ header {
 
 .question--q6,
 .questionSuccess--q6 {
-    width: 613px;
-    height: 458px;
+    width: 706px;
+    height: 527px;
 }
 
 .question--q6 {
@@ -490,8 +490,8 @@ header {
 
 .question--q7,
 .questionSuccess--q7 {
-    width: 335px;
-    height: 724px;
+    width: 411px;
+    height: 890px;
 }
 
 .question--q7 {
@@ -518,8 +518,8 @@ header {
 
 .question--q9,
 .questionSuccess--q9 {
-    width: 611px;
-    height: 455px;
+    width: 702px;
+    height: 523px;
 }
 
 .question--q9 {
@@ -532,8 +532,8 @@ header {
 
 .question--q10,
 .questionSuccess--q10 {
-    width: 732px;
-    height: 326px;
+    width: 768px;
+    height: 342px;
 }
 
 .question--q10 {
@@ -573,13 +573,13 @@ header {
 }
 
 .question-title--q5 {
-    top: 110px;
+    top: 140px;
 }
 
 .question-title--q6 {
-    width: 50%;
-    top: 110px;
-    right: 0;
+    width: 56%;
+    top: 105px;
+    left: 325px;
 }
 
 .question-title--q7 {
@@ -590,18 +590,18 @@ header {
 
 .question-title--q8 {
     width: 75%;
-    top: 120px;
-    left: 30px;
+    top: 150px;
+    left: 45px;
 }
 
 .question-title--q9 {
     width: 75%;
-    top: 95px;
-    left: 275px;
+    top: 150px;
+    left: 80px;
 }
 
 .question-title--q10 {
-    width: 55%;
+    width: 66%;
     top: 115px;
     left: 90px;
 }
@@ -629,6 +629,16 @@ header {
     box-shadow: 3px 3px 3px 0px rgba(51, 51, 51, 0.3);
 }
 
+.question-title-q--q9,
+.question-title-q--q10 {
+    margin-bottom: 5px;
+}
+
+.question-title-q--q10 {
+    line-height: 1.4;
+    ;
+}
+
 .question-title-subject {
     display: inline-block;
     padding: 0 25px 0 10px;
@@ -638,6 +648,11 @@ header {
 
 .question-title-subject--q6 {
     padding: 0 80px 0 10px;
+}
+
+.question-title-subject--q8,
+.question-title-subject--q10 {
+    padding: 0 0 0 10px;
 }
 
 .arrowDown {
@@ -655,27 +670,27 @@ header {
 }
 
 .radioButton--q1 {
-    width: 30%;
+    width: 45%;
     top: 190px;
     left: 50px;
 }
 
 .radioButton--q2 {
-    width: 25%;
-    top: 240px;
-    left: 200px;
+    width: 45%;
+    top: 245px;
+    left: 115px;
 }
 
 .radioButton--q3 {
-    width: 25%;
+    width: 45%;
     top: 185px;
-    left: 225px;
+    left: 115px;
 }
 
 .radioButton--q4 {
-    width: 45%;
-    top: 260px;
-    left: 160px;
+    width: 58%;
+    top: 190px;
+    left: 110px;
 }
 
 .radioButton--q5 {
@@ -685,9 +700,9 @@ header {
 }
 
 .radioButton--q6 {
-    width: 20%;
-    top: 190px;
-    left: 105px;
+    width: 26%;
+    top: 245px;
+    left: 100px;
 }
 
 .radioButton--q7 {
@@ -697,27 +712,27 @@ header {
 }
 
 .radioButton--q8 {
-    width: 55%;
-    top: 340px;
-    left: 37px;
+    width: 60%;
+    top: 390px;
+    left: 52px;
 }
 
 .radioButton--q9-1 {
     width: 32%;
-    top: 200px;
-    left: 70px;
+    top: 258px;
+    left: 90px;
 }
 
 .radioButton--q9-2 {
-    width: 32%;
-    top: 200px;
-    left: 292px;
+    width: 34%;
+    top: 258px;
+    left: 350px;
 }
 
 .radioButton--q10 {
-    width: 25%;
-    top: 165px;
-    left: 503px;
+    width: 15%;
+    top: 118px;
+    left: 605px;
 }
 
 .radioButton-item {
